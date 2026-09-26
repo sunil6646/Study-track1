@@ -1,0 +1,6 @@
+{
+  "name": "Study Tracker",
+  "description": "Daily study tracker with interactive checklist, subject management, real-time statistics, focus timer, notebook, and AI quiz generator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
